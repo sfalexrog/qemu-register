@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Build Docker image
-docker build -t hypriot/qemu-register .
+docker build -t sfalexrog/qemu-register .
